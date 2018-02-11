@@ -40,7 +40,7 @@
 
 - <2018-05-02 Wed> XXX
 
-- <2018-05-07 Mon> Chilndren's Day (alternative)
+- ~~<2018-05-07 Mon> Chilndren's Day (alternative)~~
 
 - <2018-05-09 Wed> XXX
 
@@ -58,7 +58,7 @@
 
 - <2018-06-04 Mon> XXX
 
-- <2018-06-06 Wed> Memorial Day
+- ~~<2018-06-06 Wed> Memorial Day~~
 
 - <2018-06-11 Mon> Final Exam
 
