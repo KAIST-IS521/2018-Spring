@@ -1,10 +1,10 @@
 # 2018-Spring
 
-- <2018-02-26 Mon> Introduction
+0. <2018-02-26 Mon> Introduction
 
-- <2018-02-28 Wed> Git
+1. <2018-02-28 Wed> Git
 
-- <2018-03-05 Mon> PGP
+2. <2018-03-05 Mon> PGP
 
 - <2018-03-07 Wed> XXX
 
