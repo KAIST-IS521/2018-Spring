@@ -28,9 +28,9 @@
 
 - [ ] <2018-04-11 Wed> Vulnerability and Exploitation
 
-- ~~<2018-04-16 Mon> Midterm Week
+- ~~<2018-04-16 Mon> Midterm Week~~
 
-- ~~<2018-04-18 Wed> Midterm Week
+- ~~<2018-04-18 Wed> Midterm Week~~
 
 - [ ] <2018-04-23 Mon> Exploitation Practice
 
@@ -60,6 +60,6 @@
 
 - ~~<2018-06-06 Wed> Memorial Day~~
 
-- ~~<2018-06-11 Mon> Final Exam
+- ~~<2018-06-11 Mon> Final Exam~~
 
-- ~~<2018-06-13 Wed> Final Exam
+- ~~<2018-06-13 Wed> Final Exam~~
