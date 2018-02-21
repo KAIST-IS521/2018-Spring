@@ -1,62 +1,62 @@
 ### 2018 Spring Sylabus (tentative)
 
-- [ ] <2018-02-26 Mon> Introduction
+- [ ] <2018-02-26 Mon> Introduction (Prof)
 
-- [ ] <2018-02-28 Wed> Git
+- [ ] <2018-02-28 Wed> Git (Prof)
 
-- [ ] <2018-03-05 Mon> Team Up
+- [ ] <2018-03-05 Mon> Team Up & Presentation (Prof)
 
-- [ ] <2018-03-07 Wed> LaTeX
+- [ ] <2018-03-07 Wed> Development Environment (TA)
 
-- [ ] <2018-03-12 Mon> GitPitch and Presentation
+- [ ] <2018-03-12 Mon> Team Presentation (All)
 
-- [ ] <2018-03-14 Wed> Development Environment
+- [ ] <2018-03-14 Wed> PGP (Prof)
 
-- [ ] <2018-03-19 Mon> Environment Demonstration
+- [ ] <2018-03-19 Mon> Network Security & App Design 1 (Prof)
 
-- [ ] <2018-03-21 Wed> PGP Party
+- [ ] <2018-03-21 Wed> Network Security & App Design 2 (TA)
 
-- [ ] <2018-03-26 Mon> Docker
+- [ ] <2018-03-26 Mon> Network Security & App Design 3 (TA)
 
-- [ ] <2018-03-28 Wed> Network Security & App Design 1
+- [ ] <2018-03-28 Wed> Network Security & App Design 4 (TA)
 
-- [ ] <2018-04-02 Mon> Network Security & App Design 2
+- [ ] <2018-04-02 Mon> Vulnerability and Exploitation 1 (Prof)
 
-- [ ] <2018-04-04 Wed> Network Security & App Design 3
+- [ ] <2018-04-04 Wed> Vulnerability and Exploitation 2 (TA)
 
-- [ ] <2018-04-09 Mon> Network Security & App Design 4
+- [ ] <2018-04-09 Mon> Exploitation Practicum (All)
 
-- [ ] <2018-04-11 Wed> Vulnerability and Exploitation
+- [ ] <2018-04-11 Wed> Virus Design 1 (Prof)
 
 - ~~<2018-04-16 Mon> Midterm Week~~
 
 - ~~<2018-04-18 Wed> Midterm Week~~
 
-- [ ] <2018-04-23 Mon> Exploitation Practice
+- [ ] <2018-04-23 Mon> Virus Design 2 (TA)
 
-- [ ] <2018-04-25 Wed> Debugging
+- [ ] <2018-04-25 Wed> Virus Design 3 (TA)
 
-- [ ] <2018-04-30 Mon> Virus Design 1
+- [ ] <2018-04-30 Mon> Virus Presentation (All)
 
-- [ ] <2018-05-02 Wed> Virus Design 2
+- [ ] <2018-05-02 Wed> Antimalware 1 (Prof)
 
 - ~~<2018-05-07 Mon> Chilndren's Day (alternative)~~
 
-- [ ] <2018-05-09 Wed> Presenting Your Virus
+- [ ] <2018-05-09 Wed> Antimalware 2 (TA)
 
-- [ ] <2018-05-14 Mon> Antimalware 1
+- [ ] <2018-05-14 Mon> Antimalware 3 (All)
 
-- [ ] <2018-05-16 Wed> Antimalware 2
+- [ ] <2018-05-16 Wed> Git-based CTF preparation 1 (TA)
 
-- [ ] <2018-05-21 Mon> Antimalware 3
+- [ ] <2018-05-21 Mon> Git-based CTF preparation 2 (TA)
 
-- [ ] <2018-05-23 Wed> Git-based CTF preparation 1
+- [ ] <2018-05-23 Wed> Git-based CTF preparation 3 (TA)
 
-- [ ] <2018-05-28 Mon> Git-based CTF preparation 2
+- [ ] <2018-05-28 Mon> Git-based CTF preparation 4 (TA)
 
-- [ ] <2018-05-30 Wed> Git-based CTF
+- [ ] <2018-05-30 Wed> Git-based CTF (All)
 
-- [ ] <2018-06-04 Mon> Conclusion
+- [ ] <2018-06-04 Mon> Conclusion (Prof)
 
 - ~~<2018-06-06 Wed> Memorial Day~~
 
