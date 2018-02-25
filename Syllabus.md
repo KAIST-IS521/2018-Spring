@@ -11,7 +11,7 @@
 | **2018-03-19 Mon** | Network Security & App Design 1  | Lecture      |
 | **2018-03-21 Wed** | Network Security & App Design 2  | -            |
 | **2018-03-26 Mon** | Network Security & App Design 3  | -            |
-| **2018-03-28 Wed** | Network Security & App Design 4  | -            |
+| **2018-03-28 Wed** | Network Security & App Design 4  | Presentation |
 | **2018-04-02 Mon** | Vulnerability and Exploitation 1 | Lecture      |
 | **2018-04-04 Wed** | Vulnerability and Exploitation 2 | -            |
 | **2018-04-09 Mon** | Exploitation Practicum           | Presentation |
