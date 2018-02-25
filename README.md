@@ -10,6 +10,12 @@ every activity, and push their results to Github.
 
 Detailed syllabus should be found [here](Syllabus.md)
 
+### TAs
+
+- Gunwoo Kim https://github.com/oxsignal
+- Soomin Kim https://github.com/soomin-kim
+- Seongil Wi https://github.com/seongil-wi
+
 ### Q&A
 
 Any questions? Create an [issue](Issues.md) in this repository. We will use
