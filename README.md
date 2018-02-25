@@ -15,6 +15,7 @@ Detailed syllabus should be found [here](Syllabus.md)
 - [Geonwoo Kim](https://github.com/oxsignal)
 - [Soomin Kim](https://github.com/soomin-kim)
 - [Seongil Wi](https://github.com/seongil-wi)
+- [Munbeom Kim](https://github.com/mikkang)
 
 ### Q&A
 
