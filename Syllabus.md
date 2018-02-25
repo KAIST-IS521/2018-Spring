@@ -2,7 +2,7 @@
 
 | Date               | Topic                                     | Type         |
 |--------------------|-------------------------------------------|--------------|
-| **2018-02-26 Mon** | [Introduction & Git](Activities/0226.md)  | Lecture      |
+| **2018-02-26 Mon** | [Introduction](https://softsec.kaist.ac.kr/depot/01-Intro.pdf) & Git [activity](Activities/0226.md)  | Lecture      |
 | **2018-02-28 Wed** | Team Up & Presentation                    | Lecture      |
 | **2018-03-05 Mon** | Presentation preparation                  | -            |
 | **2018-03-07 Wed** | Development Environment                   | -            |
