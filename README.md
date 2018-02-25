@@ -12,9 +12,9 @@ Detailed syllabus should be found [here](Syllabus.md)
 
 ### TAs
 
-- Gunwoo Kim https://github.com/oxsignal
-- Soomin Kim https://github.com/soomin-kim
-- Seongil Wi https://github.com/seongil-wi
+- [Gunwoo Kim](https://github.com/oxsignal)
+- [Soomin Kim](https://github.com/soomin-kim)
+- [Seongil Wi](https://github.com/seongil-wi)
 
 ### Q&A
 
