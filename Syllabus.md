@@ -1,7 +1,7 @@
 ### 2018 Spring Sylabus (tentative)
 
 | Date               | Topic                                     | Type         | Activity Link |
-|--------------------|-------------------------------------------|--------------|
+|--------------------|-------------------------------------------|--------------|---------------|
 | **2018-02-26 Mon** | [Introduction](https://softsec.kaist.ac.kr/depot/01-Intro.pdf) & Git | Lecture      | [(activity)](Activities/0226.md) |
 | **2018-02-28 Wed** | Team Up & Presentation                    | Lecture      |               |
 | **2018-03-05 Mon** | Presentation preparation                  | -            |               |
