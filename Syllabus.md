@@ -4,7 +4,7 @@
 |--------------------|----------------------------------|--------------|
 | **2018-02-26 Mon** | Introduction & Git               | Lecture      |
 | **2018-02-28 Wed** | Team Up & Presentation           | Lecture      |
-| **2018-03-05 Mon** | Presentation preparation         |              |
+| **2018-03-05 Mon** | Presentation preparation         | -            |
 | **2018-03-07 Wed** | Development Environment          | -            |
 | **2018-03-12 Mon** | Team Presentation                | Presentation |
 | **2018-03-14 Wed** | PGP                              | Lecture      |
