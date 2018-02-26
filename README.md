@@ -17,6 +17,7 @@ Detailed syllabus should be found [here](Syllabus.md)
 - [Seongil Wi](https://github.com/seongil-wi)
 - [Munbeom Kim](https://github.com/mikkang)
 - [Jaeseung Choi](https://github.com/...)
+- [HyungSeok Han](https://github.com/DaramG)
 
 ### Q&A
 
