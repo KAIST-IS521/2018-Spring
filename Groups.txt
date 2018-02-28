@@ -1,0 +1,6 @@
+Group[1] : mincheol son Dauren Serkeshev Seong Ho Han Jiwon Choi  // Geonwoo Kim
+Group[2] : Seunghan Hong SEOKJOO MUN Taek jin Lee Su Young Lee    // Soomin Kim
+Group[3] : SEUNGYEOP LEE Nakjun Choi DONGHYEON OH Sejin Jeong     // Seongil Wi
+Group[4] : HEE SEOK KIM Min Kyu Jung Hongsik Kim                  // Munbeom Kim
+Group[5] : KYU CHAN SHIM Hojoon Yang JUNGHWAN PARK                // Jaeseung Choi
+Group[6] : soohun kim SUNNYEO PARK SANGSUP LEE                    // HyungSeok Han
