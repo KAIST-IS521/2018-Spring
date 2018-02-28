@@ -3,7 +3,7 @@
 | Date               | Topic                                     | Type         | Activity Link |
 |--------------------|-------------------------------------------|--------------|---------------|
 | **2018-02-26 Mon** | [Introduction](https://softsec.kaist.ac.kr/depot/01-Intro.pdf) & [Git](https://softsec.kaist.ac.kr/depot/02-GIT.pdf) | Lecture      | [activity](Activities/0226.md) |
-| **2018-02-28 Wed** | Team Up & Presentation                    | Lecture      |               |
+| **2018-02-28 Wed** | Team Up & [Presentation](https://softsec.kaist.ac.kr/depot/03-Presentation.pdf)                    | Lecture      |               |
 | **2018-03-05 Mon** | Presentation preparation                  | -            |               |
 | **2018-03-07 Wed** | Development Environment                   | -            |               |
 | **2018-03-12 Mon** | Team Presentation                         | Presentation |               |
