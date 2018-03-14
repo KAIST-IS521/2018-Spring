@@ -8,7 +8,7 @@
 | **2018-03-07 Wed** | Development Environment                   | -            |               |
 | **2018-03-12 Mon** | Team Presentation                         | Presentation |               |
 | **2018-03-14 Wed** | PGP                                       | Lecture      |               |
-| **2018-03-19 Mon** | Network Security & App Design 1           | Lecture      |               |
+| **2018-03-19 Mon** | Network Security & App Design 1           | -            |               |
 | **2018-03-21 Wed** | Network Security & App Design 2           | -            |               |
 | **2018-03-26 Mon** | Network Security & App Design 3           | -            |               |
 | **2018-03-28 Wed** | Network Security & App Design 4           | Presentation |               |
