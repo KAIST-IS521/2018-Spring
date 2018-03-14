@@ -6,3 +6,4 @@
 3. Put your key in this diretory using the following name convention:
    `<GitHub-ID>.pub`
 4. Create a PR (Pull Request).
+5. Commits in your PR must signed with your PGP key
