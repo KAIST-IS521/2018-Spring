@@ -1,4 +1,4 @@
-# How to store your PGP key?
+##  How to store your PGP key?
 
 1. Prepare your key to be signed by other people. Your key should be signed by
    at least 5 people excluding yourself.
