@@ -8,7 +8,7 @@
 | **2018-03-07 Wed** | Development Environment                   | -            |               |
 | **2018-03-12 Mon** | Team Presentation                         | Presentation |               |
 | **2018-03-14 Wed** | [PGP](https://softsec.kaist.ac.kr/depot/04-PGP.pdf)                                       | Lecture      | [activity](Activities/0314.md) |
-| **2018-03-19 Mon** | Network Security & App Design 1           | -            |               |
+| **2018-03-19 Mon** | Network Security & App Design 1           | -            | [activity](Activities/0319.md) |
 | **2018-03-21 Wed** | Network Security & App Design 2           | -            |               |
 | **2018-03-26 Mon** | Network Security & App Design 3           | -            |               |
 | **2018-03-28 Wed** | Network Security & App Design 4           | Presentation |               |
