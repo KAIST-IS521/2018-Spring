@@ -14,7 +14,7 @@
 | **2018-03-28 Wed** | Network Security & App Design 4           | -            |               |
 | **2018-04-02 Mon** | Network Security & App Design 5           | Presentation |               |
 | **2018-04-04 Wed** | Vulnerability and Exploitation 1          | Lecture      |               |
-| **2018-04-09 Mon** | Vulnerability and Exploitation 2 혻 혻 혻 혻  | - 혻 혻 혻 혻 혻  | 혻 혻 혻 혻 혻 혻 혻 |
+| **2018-04-09 Mon** | Vulnerability and Exploitation 2          | -            |               |
 | **2018-04-11 Wed** | Exploitation Presentation                 | Presentation |               |
 | ~~2018-04-16 Mon~~ | Midterm Week                              | -            |               |
 | ~~2018-04-18 Wed~~ | Midterm Week                              | -            |               |
