@@ -11,15 +11,15 @@
 | **2018-03-19 Mon** | Network Security & App Design 1           | -            | [activity](Activities/0319.md) |
 | **2018-03-21 Wed** | Network Security & App Design 2           | -            |               |
 | **2018-03-26 Mon** | Network Security & App Design 3           | -            |               |
-| **2018-03-28 Wed** | Network Security & App Design 4           | Presentation |               |
-| **2018-04-02 Mon** | Vulnerability and Exploitation 1          | Lecture      |               |
-| **2018-04-04 Wed** | Vulnerability and Exploitation 2          | -            |               |
-| **2018-04-09 Mon** | Exploitation Practicum                    | Presentation |               |
-| **2018-04-11 Wed** | Virus Design 1                            | Lecture      |               |
+| **2018-03-28 Wed** | Network Security & App Design 4           | -            |               |
+| **2018-04-02 Mon** | Network Security & App Design 5           | Presentation |               |
+| **2018-04-04 Wed** | Vulnerability and Exploitation 1          | Lecture      |               |
+| **2018-04-09 Mon** | Vulnerability and Exploitation 2 혻 혻 혻 혻  | - 혻 혻 혻 혻 혻  | 혻 혻 혻 혻 혻 혻 혻 |
+| **2018-04-11 Wed** | Exploitation Presentation                 | Presentation |               |
 | ~~2018-04-16 Mon~~ | Midterm Week                              | -            |               |
 | ~~2018-04-18 Wed~~ | Midterm Week                              | -            |               |
-| **2018-04-23 Mon** | Virus Design 2                            | -            |               |
-| **2018-04-25 Wed** | Virus Design 3                            | -            |               |
+| **2018-04-23 Mon** | Virus Design 1                            | -            |               |
+| **2018-04-25 Wed** | Virus Design 2                            | -            |               |
 | **2018-04-30 Mon** | Virus Presentation                        | Presentation |               |
 | **2018-05-02 Wed** | Antimalware 1                             | Lecture      |               |
 | ~~2018-05-07 Mon~~ | Children's Day (alternative)              |              |               |
