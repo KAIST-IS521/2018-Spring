@@ -32,5 +32,5 @@
 | **2018-05-30 Wed** | Git-based CTF                             | Presentation |               |
 | **2018-06-04 Mon** | Conclusion                                | Lecture      |               |
 | ~~2018-06-06 Wed~~ | Memorial Day                              |              |               |
-| ~~2018-06-11 Mon~~ | Final Weak                                |              |               |
-| ~~2018-06-13 Wed~~ | Final Weak                                |              |               |
+| ~~2018-06-11 Mon~~ | Final Week                                |              |               |
+| ~~2018-06-13 Wed~~ | Final Week                                |              |               |
