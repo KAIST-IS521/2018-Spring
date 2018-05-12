@@ -24,7 +24,7 @@
 | **2018-05-02 Wed** | Virus Design 4                            | -            |               |
 | ~~2018-05-07 Mon~~ | Children's Day (alternative)              |              |               |
 | **2018-05-09 Wed** | Virus Design 5                            | -            |               |
-| **2018-05-14 Mon** | Virus Presentation                        | Presentation |               |
+| **2018-05-14 Mon** | Virus Presentation                        | ~~Presentation~~ |               |
 | **2018-05-16 Wed** | Git-based CTF preparation 1               | Lecture      |               |
 | **2018-05-21 Mon** | Git-based CTF preparation 2               | -            |               |
 | **2018-05-23 Wed** | Git-based CTF preparation 3               |              |               |
