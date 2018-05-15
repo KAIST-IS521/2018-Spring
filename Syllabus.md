@@ -28,8 +28,8 @@
 | **2018-05-16 Wed** | Git-based CTF preparation 1               | Lecture      |               |
 | **2018-05-21 Mon** | Git-based CTF preparation 2               | -            |               |
 | **2018-05-23 Wed** | Git-based CTF preparation 3               |              |               |
-| **2018-05-28 Mon** | Git-based CTF preparation 4               |              |               |
-| **2018-05-30 Wed** | Git-based CTF                             | Presentation |               |
+| **2018-05-28 Mon** | Git-based CTF                             |              |               |
+| **2018-05-30 Wed** | Git-based CTF                             |              |               |
 | **2018-06-04 Mon** | Conclusion                                | Lecture      |               |
 | ~~2018-06-06 Wed~~ | Memorial Day                              |              |               |
 | ~~2018-06-11 Mon~~ | Final Week                                |              |               |
