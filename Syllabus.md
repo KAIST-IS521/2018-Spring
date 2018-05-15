@@ -27,7 +27,7 @@
 | **2018-05-14 Mon** | Virus Presentation                        | ~~Presentation~~ |               |
 | **2018-05-16 Wed** | Git-based CTF preparation 1               | Lecture      |               |
 | **2018-05-21 Mon** | Git-based CTF preparation 2               | -            |               |
-| **2018-05-23 Wed** | Git-based CTF preparation 3               |              |               |
+| **2018-05-23 Wed** | Git-based CTF preparation 3               | Lecture      |               |
 | **2018-05-28 Mon** | Git-based CTF                             |              |               |
 | **2018-05-30 Wed** | Git-based CTF                             |              |               |
 | **2018-06-04 Mon** | Conclusion                                | Lecture      |               |
