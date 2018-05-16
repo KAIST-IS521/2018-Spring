@@ -23,6 +23,6 @@ choice in #74.
 ### CTF Challenge Creation
 
 If you have chosen a web server, you can create a CGI application on top of the
-web server to create a CTF challenge. Remember, your `bug` branches should
+web server to create a CTF challenge. Remember, your `bugN` branches should
 contain a valid service that can be exploited by a remote attacker, and a
 vanilla web server will not serve any pages that attackers can exploit.
