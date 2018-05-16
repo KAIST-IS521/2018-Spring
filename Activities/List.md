@@ -1,7 +1,7 @@
 ### List of repositories
 
-Here, we have chosen several programs in various categories. All these programs
-are written either in C or C++, and they have a reasonable amount of code. Each
+Here, we have chosen several services of various categories. All these programs
+are written in either C or C++, and they have a reasonable amount of code. Each
 team can choose one repository, and one of the team members should report your
 choice in #74.
 
