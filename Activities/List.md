@@ -11,7 +11,7 @@ choice in #74.
 | CHAT       | https://github.com/andregasser/chatsrv                   |
 | CHAT       | https://github.com/Alkesst/Dev-Chat                      |
 | FTP        | https://github.com/TimothyCH/FTP-Client-Server           |
-| FTP        | https://github.com/hfiref0x/LightFT                      |
+| FTP        | https://github.com/hfiref0x/LightFTP                      |
 | FTP        | https://github.com/Liroo/FTP                             |
 | FTP        | https://github.com/qinchao0525/MiniFTP                   |
 | SMTP       | https://github.com/Orc/postoffice                        |
