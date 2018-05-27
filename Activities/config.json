@@ -1,0 +1,150 @@
+{
+    "player": "Your ID",
+    "player_team": "Your Team",
+    "score_board": "https://github.com/KAIST-IS521/2018s-gitctf-score.git",
+    "repo_owner": "KAIST-IS521",
+    "intended_pts": 10,
+    "unintended_pts": 100,
+    "round_frequency": 1800,
+    "end_time": "2018-06-01T09:00:00+09:00",
+    "exploit_timeout": {
+        "exercise_phase": 10,
+        "injection_phase": 60
+    },
+    "teams": {
+        "team1": {
+            "bug4": "4be58078ee4aa3a3c07a2496e6d2a4ec07a925af",
+            "bug2": "1c3fb0fd5aa0329376fdbf98674076daf7c094f2",
+            "bug3": "65644bfbbb5ae962278a404dd120da0977c3335b",
+            "bug1": "282797a6674f2e582dccbbb768d1dd34e35957a9",
+            "pub_key_id": "67C6410B",
+            "repo_name": "2018s-gitctf-team1"
+        },
+        "team2": {
+            "bug4": "c03dfbf98e0003ede6b2373719f9e89e0552c737",
+            "bug2": "2f827d5f446bd830effb80400960a95de2ded338",
+            "bug3": "a2bae455890f2eb2e4be79a175b180897d18e411",
+            "bug1": "1b6e24b6d9a2f999688012758a24ea58ce3be1e8",
+            "pub_key_id": "DF12CA60",
+            "repo_name": "2018s-gitctf-team2"
+        },
+        "team3": {
+            "bug4": "a293d12d5295706c529397e1d7ea241186d7dc4e",
+            "bug2": "e86053a38ebd59b6c0d953fb5bf585275840f7de",
+            "bug3": "1d377f866aa567f7e487109813354336518e1f3e",
+            "bug1": "9784dfaafa81cf212e99056123f7055887c02ed3",
+            "pub_key_id": "546F5381",
+            "repo_name": "2018s-gitctf-team3"
+        },
+        "team4": {
+            "bug4": "16ba2618099e96f52ea21d6d2fb8938ddff3d468",
+            "bug2": "44f6c64584b2ffff564c3f52d86575ade399c61a",
+            "bug3": "05c0db8a9c0bec7757b13f9f98e968cb4a553151",
+            "bug1": "454d22b99f4d32011d53f7b62eb0141305d5c7ab",
+            "pub_key_id": "68E6710F",
+            "repo_name": "2018s-gitctf-team4"
+        },
+        "team5": {
+            "bug4": "55d289ad4a950570064f09b50d2e346a78027a5c",
+            "bug2": "ed945c681deaba9dd8e08d2132a12e6fd6ca4676",
+            "bug3": "7dd8b4428a77da6c3225523bb1504a6a3a42cd2d",
+            "bug1": "e6cc3d9352c30097650ef93dd5ca0fa3bad9191c",
+            "pub_key_id": "6B1913EB",
+            "repo_name": "2018s-gitctf-team5"
+        },
+        "instructor": {
+            "pub_key_id": "48EA8545",
+            "repo_name": "-"
+        }
+    },
+    "individual": {
+        "saykim0727":{
+            "pub_key_id": "E7247718",
+            "team": "team1"
+        },
+        "hestati63":{
+            "pub_key_id": "3CB44CA1",
+            "team": "team1"
+        },
+        "AhnMo":{
+            "pub_key_id": "3662C8DA",
+            "team": "team1"
+        },
+        "hansh17":{
+            "pub_key_id": "6DBC89AE",
+            "team": "team1"
+        },
+        "khsdo95":{
+            "pub_key_id": "26F87A7F",
+            "team": "team2"
+        },
+        "Hexife":{
+            "pub_key_id": "0F89FB87",
+            "team": "team2"
+        },
+        "elmisty":{
+            "pub_key_id": "7499895D",
+            "team": "team2"
+        },
+        "omnibusor":{
+            "pub_key_id": "1C935D54",
+            "team": "team2"
+        },
+        "hongsh93":{
+            "pub_key_id": "67F04540",
+            "team": "team3"
+        },
+        "S-KYUCHAN":{
+            "pub_key_id": "A49AE295",
+            "team": "team3"
+        },
+        "leeswimming":{
+            "pub_key_id": "D106D406",
+            "team": "team3"
+        },
+        "zanywhale":{
+            "pub_key_id": "F49496D7",
+            "team": "team3"
+        },
+        "cnj8160":{
+            "pub_key_id": "03F827D9",
+            "team": "team4"
+        },
+        "MincheolSon":{
+            "pub_key_id": "9355B2A0",
+            "team": "team4"
+        },
+        "2dvorak":{
+            "pub_key_id": "FB7F4ECC",
+            "team": "team4"
+        },
+        "Dauren2495":{
+            "pub_key_id": "299C7A01",
+            "team": "team4"
+        },
+        "sunnyeo":{
+            "pub_key_id": "F6280163",
+            "team": "team4"
+        },
+        "eternalklaus":{
+            "pub_key_id": "EDE8D438",
+            "team": "team5"
+        },
+        "k1rh4":{
+            "pub_key_id": "ABD3A245",
+            "team": "team5"
+        },
+        "skyshiri":{
+            "pub_key_id": "99B2A2F8",
+            "team": "team5"
+        },
+        "soohun-kim":{
+            "pub_key_id": "C6140206",
+            "team": "team5"
+        },
+        "thefffrla":{
+            "pub_key_id": "D59A4FE9",
+            "team": "team5"
+        }
+    }
+}
