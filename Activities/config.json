@@ -1,5 +1,4 @@
 {
-
     "player": "Your ID",
     "player_team": "Your Team",
     "score_board": "https://github.com/KAIST-IS521/2018s-gitctf-score.git",
@@ -22,10 +21,10 @@
             "repo_name": "2018s-gitctf-team1"
         },
         "team2": {
-            "bug4": "aa4e633ade3a0b3b7d4791519b62c29fbfedff8f",
-            "bug2": "726c8fa041e771bb494bf721811f06bdffb9f172",
-            "bug3": "a2bae455890f2eb2e4be79a175b180897d18e411",
-            "bug1": "1b6e24b6d9a2f999688012758a24ea58ce3be1e8",
+            "bug4": "fe26e2ba5789e238ba74d1bd191609ae89ce6483",
+            "bug2": "b4ed9e1cb98b46ca4a11675188af50ab147c7881",
+            "bug3": "bf3d664e5e9bc4a0a022407866f3a597e886cb70",
+            "bug1": "30944e62425132c5df42f9706244f4f6437d15cb",
             "pub_key_id": "DF12CA60",
             "repo_name": "2018s-gitctf-team2"
         },
@@ -37,12 +36,11 @@
             "pub_key_id": "546F5381",
             "repo_name": "2018s-gitctf-team3"
         },
-
         "team4": {
-            "bug4": "1964cd21ac05554dcd50303949501fd4e1ff9338",
-            "bug2": "d0dc5b3fce998e391420c7cf954194b7a442ccb3",
-            "bug3": "b91f8b71bfbeb1ccd98311747d2a0dce9e5e4b7b",
-            "bug1": "31ebcdb72ef5a9c5c37fda8ebba1f7b837bb8f7d",
+            "bug4": "287c7d9a34fc0650140f74722b5c176dac27200b",
+            "bug2": "ea491412a9790e2cdf13059130cc1898dd153868",
+            "bug3": "cdae1afa837e7d599dddc734e91d8faa4770fe54",
+            "bug1": "a83429f118b59db9e9fecd9275b556052e240b74",
             "pub_key_id": "68E6710F",
             "repo_name": "2018s-gitctf-team4"
         },
@@ -60,93 +58,93 @@
         }
     },
     "individual": {
-        "saykim0727":{
-            "pub_key_id": "E7247718",
-            "team": "team1"
-        },
-        "hestati63":{
-            "pub_key_id": "3CB44CA1",
-            "team": "team1"
-        },
-        "AhnMo":{
-            "pub_key_id": "3662C8DA",
-            "team": "team1"
-        },
-        "hansh17":{
-            "pub_key_id": "6DBC89AE",
-            "team": "team1"
-        },
-        "khsdo95":{
-            "pub_key_id": "26F87A7F",
-            "team": "team2"
-        },
-        "Hexife":{
-            "pub_key_id": "0F89FB87",
-            "team": "team2"
-        },
-        "elmisty":{
-            "pub_key_id": "7499895D",
-            "team": "team2"
-        },
-        "omnibusor":{
-            "pub_key_id": "1C935D54",
-            "team": "team2"
-        },
-        "hongsh93":{
-            "pub_key_id": "67F04540",
-            "team": "team3"
-        },
-        "S-KYUCHAN":{
+        "S-KYUCHAN": {
             "pub_key_id": "A49AE295",
             "team": "team3"
         },
-        "leeswimming":{
-            "pub_key_id": "D106D406",
-            "team": "team3"
-        },
-        "zanywhale":{
-            "pub_key_id": "F49496D7",
-            "team": "team3"
-        },
-        "cnj8160":{
-            "pub_key_id": "03F827D9",
-            "team": "team4"
-        },
-        "MincheolSon":{
-            "pub_key_id": "9355B2A0",
-            "team": "team4"
-        },
-        "2dvorak":{
-            "pub_key_id": "FB7F4ECC",
-            "team": "team4"
-        },
-        "Dauren2495":{
-            "pub_key_id": "299C7A01",
-            "team": "team4"
-        },
-        "sunnyeo":{
-            "pub_key_id": "F6280163",
-            "team": "team4"
-        },
-        "eternalklaus":{
+        "eternalklaus": {
             "pub_key_id": "EDE8D438",
             "team": "team5"
         },
-        "k1rh4":{
-            "pub_key_id": "ABD3A245",
-            "team": "team5"
+        "sunnyeo": {
+            "pub_key_id": "F6280163",
+            "team": "team4"
         },
-        "skyshiri":{
-            "pub_key_id": "99B2A2F8",
-            "team": "team5"
+        "cnj8160": {
+            "pub_key_id": "03F827D9",
+            "team": "team4"
         },
-        "soohun-kim":{
+        "2dvorak": {
+            "pub_key_id": "FB7F4ECC",
+            "team": "team4"
+        },
+        "zanywhale": {
+            "pub_key_id": "F49496D7",
+            "team": "team3"
+        },
+        "AhnMo": {
+            "pub_key_id": "3662C8DA",
+            "team": "team1"
+        },
+        "Hexife": {
+            "pub_key_id": "0F89FB87",
+            "team": "team2"
+        },
+        "MincheolSon": {
+            "pub_key_id": "9355B2A0",
+            "team": "team4"
+        },
+        "leeswimming": {
+            "pub_key_id": "D106D406",
+            "team": "team3"
+        },
+        "hansh17": {
+            "pub_key_id": "6DBC89AE",
+            "team": "team1"
+        },
+        "soohun-kim": {
             "pub_key_id": "C6140206",
             "team": "team5"
         },
-        "thefffrla":{
+        "khsdo95": {
+            "pub_key_id": "26F87A7F",
+            "team": "team2"
+        },
+        "hongsh93": {
+            "pub_key_id": "67F04540",
+            "team": "team3"
+        },
+        "hestati63": {
+            "pub_key_id": "3CB44CA1",
+            "team": "team1"
+        },
+        "thefffrla": {
             "pub_key_id": "D59A4FE9",
             "team": "team5"
+        },
+        "k1rh4": {
+            "pub_key_id": "ABD3A245",
+            "team": "team5"
+        },
+        "omnibusor": {
+            "pub_key_id": "1C935D54",
+            "team": "team2"
+        },
+        "Dauren2495": {
+            "pub_key_id": "299C7A01",
+            "team": "team4"
+        },
+        "skyshiri": {
+            "pub_key_id": "99B2A2F8",
+            "team": "team5"
+        },
+        "elmisty": {
+            "pub_key_id": "7499895D",
+            "team": "team2"
+        },
+        "saykim0727": {
+            "pub_key_id": "E7247718",
+            "team": "team1"
         }
     }
 }
