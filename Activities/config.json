@@ -60,93 +60,93 @@
         }
     },
     "individual": {
-        "S-KYUCHAN": {
-            "pub_key_id": "A49AE295",
-            "team": "team3"
-        },
-        "eternalklaus": {
-            "pub_key_id": "EDE8D438",
-            "team": "team5"
-        },
-        "sunnyeo": {
-            "pub_key_id": "F6280163",
-            "team": "team4"
-        },
-        "cnj8160": {
-            "pub_key_id": "03F827D9",
-            "team": "team4"
-        },
-        "2dvorak": {
-            "pub_key_id": "FB7F4ECC",
-            "team": "team4"
-        },
-        "zanywhale": {
-            "pub_key_id": "F49496D7",
-            "team": "team3"
-        },
-        "AhnMo": {
-            "pub_key_id": "3662C8DA",
+        "saykim0727":{
+            "pub_key_id": "E7247718",
             "team": "team1"
         },
-        "Hexife": {
-            "pub_key_id": "0F89FB87",
-            "team": "team2"
-        },
-        "MincheolSon": {
-            "pub_key_id": "9355B2A0",
-            "team": "team4"
-        },
-        "leeswimming": {
-            "pub_key_id": "D106D406",
-            "team": "team3"
-        },
-        "hansh17": {
-            "pub_key_id": "6DBC89AE",
-            "team": "team1"
-        },
-        "soohun-kim": {
-            "pub_key_id": "C6140206",
-            "team": "team5"
-        },
-        "khsdo95": {
-            "pub_key_id": "26F87A7F",
-            "team": "team2"
-        },
-        "hongsh93": {
-            "pub_key_id": "67F04540",
-            "team": "team3"
-        },
-        "hestati63": {
+        "hestati63":{
             "pub_key_id": "3CB44CA1",
             "team": "team1"
         },
-        "thefffrla": {
-            "pub_key_id": "D59A4FE9",
-            "team": "team5"
+        "AhnMo":{
+            "pub_key_id": "3662C8DA",
+            "team": "team1"
         },
-        "k1rh4": {
-            "pub_key_id": "ABD3A245",
-            "team": "team5"
+        "hansh17":{
+            "pub_key_id": "6DBC89AE",
+            "team": "team1"
         },
-        "omnibusor": {
-            "pub_key_id": "1C935D54",
+        "khsdo95":{
+            "pub_key_id": "26F87A7F",
             "team": "team2"
         },
-        "Dauren2495": {
-            "pub_key_id": "299C7A01",
-            "team": "team4"
+        "Hexife":{
+            "pub_key_id": "0F89FB87",
+            "team": "team2"
         },
-        "skyshiri": {
-            "pub_key_id": "99B2A2F8",
-            "team": "team5"
-        },
-        "elmisty": {
+        "elmisty":{
             "pub_key_id": "7499895D",
             "team": "team2"
         },
-        "saykim0727": {
-            "pub_key_id": "E7247718",
-            "team": "team1"
+        "omnibusor":{
+            "pub_key_id": "1C935D54",
+            "team": "team2"
+        },
+        "hongsh93":{
+            "pub_key_id": "67F04540",
+            "team": "team3"
+        },
+        "S-KYUCHAN":{
+            "pub_key_id": "A49AE295",
+            "team": "team3"
+        },
+        "leeswimming":{
+            "pub_key_id": "D106D406",
+            "team": "team3"
+        },
+        "zanywhale":{
+            "pub_key_id": "F49496D7",
+            "team": "team3"
+        },
+        "cnj8160":{
+            "pub_key_id": "03F827D9",
+            "team": "team4"
+        },
+        "MincheolSon":{
+            "pub_key_id": "9355B2A0",
+            "team": "team4"
+        },
+        "2dvorak":{
+            "pub_key_id": "FB7F4ECC",
+            "team": "team4"
+        },
+        "Dauren2495":{
+            "pub_key_id": "299C7A01",
+            "team": "team4"
+        },
+        "sunnyeo":{
+            "pub_key_id": "F6280163",
+            "team": "team4"
+        },
+        "eternalklaus":{
+            "pub_key_id": "EDE8D438",
+            "team": "team5"
+        },
+        "k1rh4":{
+            "pub_key_id": "ABD3A245",
+            "team": "team5"
+        },
+        "skyshiri":{
+            "pub_key_id": "99B2A2F8",
+            "team": "team5"
+        },
+        "soohun-kim":{
+            "pub_key_id": "C6140206",
+            "team": "team5"
+        },
+        "thefffrla":{
+            "pub_key_id": "D59A4FE9",
+            "team": "team5"
         }
     }
 }
